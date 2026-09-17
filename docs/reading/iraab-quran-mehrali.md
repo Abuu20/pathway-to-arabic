@@ -15,7 +15,7 @@ You can start reading these books alongside other courses. But ideally you shoul
 
 ## **Surah alJathiyah**
 
-![iraab of surah alJathiyah videos](/img/iraab-surah-aljathiyah-videos.png)
+![iraab of surah alJathiyah videos](/pathway-to-arabic/img/iraab-surah-aljathiyah-videos.png)
 
 !!! note ""
 Download the PDF he is using from [here](https://pathway-to-arabic.s3-us-west-2.amazonaws.com/Surah+Al-Jathiya+.pdf)
@@ -32,7 +32,7 @@ Download the PDF he is using from [here](https://pathway-to-arabic.s3-us-west-2.
 
 ## **Surah alTaghabun**
 
-![iraab of surah alTaghabun videos](/img/iraab-surah-alTaghabun.png)
+![iraab of surah alTaghabun videos](/pathway-to-arabic/img/iraab-surah-alTaghabun.png)
 
 !!! note ""
 Download the PDF he is using from [here](https://archive.org/details/surah-at-taghabun)
@@ -46,7 +46,7 @@ Download the PDF he is using from [here](https://archive.org/details/surah-at-ta
 
 ## **Surah alMulk**
 
-![iraab of surah alMulk videos](/img/iraab-surah-alMulk.png)
+![iraab of surah alMulk videos](/pathway-to-arabic/img/iraab-surah-alMulk.png)
 
 !!! note ""
 Download the PDF he is using from [here](https://archive.org/details/surah-al-mulk-67-the-dominion/page/n1/mode/2up)
@@ -61,7 +61,7 @@ Download the PDF he is using from [here](https://archive.org/details/surah-al-mu
 
 ## **Surah alQalam**
 
-![iraab of surah alQalam videos](/img/iraab-surah-alQalam.png)
+![iraab of surah alQalam videos](/pathway-to-arabic/img/iraab-surah-alQalam.png)
 
 !!! note ""
 Download the PDF he is using from [here](https://archive.org/details/surah-al-qalam-68-the-pen)
@@ -78,7 +78,7 @@ Download the PDF he is using from [here](https://archive.org/details/surah-al-qa
 
 ## **Surah alHaqqa**
 
-![iraab of surah alHaqqa videos](/img/iraab-surah-alHaqqa.png)
+![iraab of surah alHaqqa videos](/pathway-to-arabic/img/iraab-surah-alHaqqa.png)
 
 !!! note ""
 Download the PDF he is using from [here](https://archive.org/details/surah-al-haqqa-69-the-inevitable)
@@ -93,7 +93,7 @@ Download the PDF he is using from [here](https://archive.org/details/surah-al-ha
 
 ## **Surah alMaarij**
 
-![iraab of surah alMaarij videos](/img/iraab-surah-alMaarij.png)
+![iraab of surah alMaarij videos](/pathway-to-arabic/img/iraab-surah-alMaarij.png)
 
 !!! note ""
 Download the PDF he is using from [here](https://archive.org/details/suratul-maaarij)
@@ -106,7 +106,7 @@ Download the PDF he is using from [here](https://archive.org/details/suratul-maa
 
 ## **Surah Nuh**
 
-![iraab of surah Nuh videos](/img/iraab-surah-Nuh.png)
+![iraab of surah Nuh videos](/pathway-to-arabic/img/iraab-surah-Nuh.png)
 
 !!! note ""
 Download the PDF he is using from [here](https://archive.org/details/surah-nuh)
@@ -120,7 +120,7 @@ Download the PDF he is using from [here](https://archive.org/details/surah-nuh)
 
 ## **Surah alJinn**
 
-![iraab of surah alJinn videos](/img/iraab-surah-alJinn.png)
+![iraab of surah alJinn videos](/pathway-to-arabic/img/iraab-surah-alJinn.png)
 
 !!! note ""
 Download the PDF he is using from [here](https://archive.org/details/suratul-jinn_202011){target=\_blank}
@@ -135,7 +135,7 @@ Download the PDF he is using from [here](https://archive.org/details/suratul-jin
 
 ## **Surah alMuzzammil**
 
-![iraab of surah alMuzzammil videos](/img/iraab-surah-alMuzzammil.png)
+![iraab of surah alMuzzammil videos](/pathway-to-arabic/img/iraab-surah-alMuzzammil.png)
 
 !!! note ""
 Download the PDF he is using from [here](https://archive.org/details/surah-muzzammil){target=\_blank}
@@ -148,7 +148,7 @@ Download the PDF he is using from [here](https://archive.org/details/surah-muzza
 
 ## **Surah alMuddaththir**
 
-![iraab of surah alMuddaththir videos](/img/iraab-surah-alMuddaththir.png)
+![iraab of surah alMuddaththir videos](/pathway-to-arabic/img/iraab-surah-alMuddaththir.png)
 
 !!! note ""
 Download the PDF he is using from [here](https://archive.org/details/74-suratul-muddaththir){target=\_blank}

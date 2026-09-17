@@ -1,6 +1,6 @@
 # From Esfahan to Madinah
 
-![Esfahan to Madinah](/img/esfahan-to-madinah.jpg)
+![Esfahan to Madinah](/pathway-to-arabic/img/esfahan-to-madinah.jpg)
 
 <br>
 From Esfahan to Madinah in Search of Truth is the hadeeth of Salman al-Farisi (radiya Allaahu anhu) narrating his heart-felt story and arduous journey in search of truth. Join the travels and learn the many Islamic lessons including utmost determination, strength, patience, love of Allah and tremendous sacrifices for His sake. Feel the story come to life with the lexical & grammatical notes by Dr. Abdur Raheem.

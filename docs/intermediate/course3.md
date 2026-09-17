@@ -1,6 +1,6 @@
 # Conversation Drills
 
-![Conversation drills](/img/conversation-drills.jpg)
+![Conversation drills](/pathway-to-arabic/img/conversation-drills.jpg)
 
 An audio-visual conversational course that develops speaking skills using the vocabulary, lexical and grammatical knowledge in the 3 Madinah Books. Drills are meticulously structured with lively, every-day topics. Dialogues start from the simplest conversation to full conversational Arabic. Enjoy the Shaykh’s beautiful spoken Arabic and the privilege of following the teaching methods of the Islamic University, Madinah.
 

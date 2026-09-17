@@ -12,7 +12,7 @@ This is a famous book series for teaching Arabic to non-native speakers. But rat
 
 To help ease into reading without vowel signs, this website is equipped with a simple switch panel at the top of the page, which allows the user to control the vocalization (تَشْكِيلٌ) of the text. The user can choose to show or hide short vowels (حَرَكَاتٌ) at the beginning (أَوَّلُ الْكَلِمَةِ), the middle (وَسْطُ الْكَلِمَةِ) and the end (آخِرُ الْكَلِمَةِ) of each word of the text. Read more about their methodolgy [here](https://arabic.ba/practice/reading/help/).
 
-![Arabic.ba](/img/arabic.ba.png)
+![Arabic.ba](/pathway-to-arabic/img/arabic.ba.png)
 
 You can find all the lessosn [here](https://arabic.ba/practice/reading/arabic-for-beginners/).
 
@@ -20,7 +20,7 @@ You can find all the lessosn [here](https://arabic.ba/practice/reading/arabic-fo
 
 _by Dr. Abdur Raheem_
 
-![Tadabbur Surah Fatihah](/img/fatiha-tadabbur.jpg)
+![Tadabbur Surah Fatihah](/pathway-to-arabic/img/fatiha-tadabbur.jpg)
 
 Simple contemplation of Surah al-Fatihah in 20 short points. Useful for advanced students who are ready to move from understanding grammar, to contemplating the deeper meanings denoted by the grammar. The language is easy enough to make it a good beginner's book for independent reading.
 
@@ -33,7 +33,7 @@ Simple contemplation of Surah al-Fatihah in 20 short points. Useful for advanced
 
 _by a group of prominent scholars, initiative King Fahad Printing Press_
 
-![al-Tafseer al-Muyassar](/img/tafseer-muyassar.jpg)
+![al-Tafseer al-Muyassar](/pathway-to-arabic/img/tafseer-muyassar.jpg)
 
 This tafseer is in simple Arabic, using only simple and easy phrases and words throughout the Tafseer, along with explaining the difficult words. The tafseer is simplified and summarized, from the works of the greatest Imaams of tafseer and explains the meaning of the ayaat directly, without quoting any narrations except where necessary. Which makes it a good starting book for the students of Arabic before delving into more complex books of tafseer.
 
@@ -47,7 +47,7 @@ This tafseer is in simple Arabic, using only simple and easy phrases and words t
 
 _by Abdul Salam Haroon_
 
-![Qawaid-al-Imla](/img/qawaid-al-imla.jpg)
+![Qawaid-al-Imla](/pathway-to-arabic/img/qawaid-al-imla.jpg)
 
 Qawaid al Imla is a short book explaining the rules of Arabic orthography. Not only this book is beneficial to master Arabic writing, reading this Arabic only book and trying to understand the Arabic video lectures in itself is a great way to practice Arabic comprehension.
 
@@ -62,7 +62,7 @@ Qawaid al Imla is a short book explaining the rules of Arabic orthography. Not o
 
 _by Dr Abdur Raheem_
 
-![Iqsam alAiman](/img/iqsaam.jpg)
+![Iqsam alAiman](/pathway-to-arabic/img/iqsaam.jpg)
 
 Another great book by Dr Abdur Raheem, in which 400 ayaat of the Quran are masterfully quoted, arranged and discussed. This publication gathers every āyah in the Quran containing a Qasam and Jawab al-Qasam.
 
@@ -80,7 +80,7 @@ New, advanced, grammatical notes and insights are provided from classical Arabic
 
 _by Alminhaj Center for Educational Supervision and Training_
 
-![Quran tadabbur wa amal](/img/quran-tadabbur-amal.png)
+![Quran tadabbur wa amal](/pathway-to-arabic/img/quran-tadabbur-amal.png)
 
 This book takes a unique aproach. For every page of the Quran, meanings of the new words are given in Arabic. It also contains short excerpts from the authentic tafaseer like Ibn Katheer, Qurtubi etc., points to reflect upon and lessons to be drawn. This is an ideal book to study before starting on the study of more detailed books of tafseer.
 
@@ -94,7 +94,7 @@ This book takes a unique aproach. For every page of the Quran, meanings of the n
 
 _by Sheikh Uthaimeen_
 
-![Sharh of 40 ahadeeth of Nawawi by ibn Uthaimeen](/img/sharh-40ahdeeth-uthaimeen.png)
+![Sharh of 40 ahadeeth of Nawawi by ibn Uthaimeen](/pathway-to-arabic/img/sharh-40ahdeeth-uthaimeen.png)
 
 Shiekh Uthaimeen's commentary on the famous [40 Ahadeeth by Imam Nawawi](https://arabic.naveeraashraf.com/guided-reading/#imam-nawawi-s-forty-ahadeeth){target=\_blank}. There are [many books](https://takw.in/alsunnah/alhadith/alarbauoon-alnawawiyyah){target=\_blank} written explaianing this famous book of hadeeth, but Sheikh Uthaimeen's explanantion is good for students of Arabic language as the language is easy and he addresses many contemporary issues in his works.
 
@@ -108,7 +108,7 @@ Shiekh Uthaimeen's commentary on the famous [40 Ahadeeth by Imam Nawawi](https:/
 
 _by Hafidh Ibn Katheer_
 
-![tafseer ibn Katheer](/img/tafseer-ibn-katheer.jpg)
+![tafseer ibn Katheer](/pathway-to-arabic/img/tafseer-ibn-katheer.jpg)
 
 One of the most well renowned tafseer books in Arabic language, this tafseer forms the backbone of many tafseer studies. But what makes it a perfect first Arabic only tafseer is the fact that it's language is super easy and perfectly suitable for novices to understand. This books quotes large number of authentic ahadeeth which could be a little difficult to understand, but pushes a learner out of their comfort zone.
 
@@ -124,7 +124,7 @@ One of the most well renowned tafseer books in Arabic language, this tafseer for
 
 _by Sheikh Abdur Rahman bin Nasir alSaadi_
 
-![tafseer saadi](/img/tafseer-as-saadi-2.png)
+![tafseer saadi](/pathway-to-arabic/img/tafseer-as-saadi-2.png)
 
 Written by Sheikh Abd ar-Rahman ibn Nasir alSaadi, it is a clear, concise Tafsir that is considered Authentic. It is a very good choice for beginners, due to its simple language. It is a great place to start reading the Quran in Arabic as it will give you enough context for the verses you don’t understand.
 
@@ -138,7 +138,7 @@ Written by Sheikh Abd ar-Rahman ibn Nasir alSaadi, it is a clear, concise Tafsir
 
 _by King Fahd Quran Printing Complex_
 
-![Mayassar fi ghareeb alQuran alKareem](/img/mayassar-fi-ghareeb-alQuran.jpg)
+![Mayassar fi ghareeb alQuran alKareem](/pathway-to-arabic/img/mayassar-fi-ghareeb-alQuran.jpg)
 
 The vocabulary of the Quran is explained simply in this color coded book, particularly those words that need further clarification to grasp their meaning. Explained in simple and clear Arabic. The work is prepared by the King Fahd Quran Printing Complex (al-Madinah al-Munawwarah).
 
@@ -151,7 +151,7 @@ The vocabulary of the Quran is explained simply in this color coded book, partic
 
 ## **الصحاح الستة**
 
-![sihah sitta](/img/Kutub-as-Sittah.jpg)
+![sihah sitta](/pathway-to-arabic/img/Kutub-as-Sittah.jpg)
 
 The Six Canonical Books of Hadith in Full Audio & PDF.
 

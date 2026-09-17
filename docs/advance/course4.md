@@ -1,6 +1,6 @@
 # المسعف في لغة وإعراب سورة يوسف
 
-![Surah Yusuf](/img/surah-yusuf.jpg)
+![Surah Yusuf](/pathway-to-arabic/img/surah-yusuf.jpg)
 
 <br>
 Quran describes Surah Yusuf as أحسن القصص the best of stories. Enter the garden of this beautiful surah with Dr Abdur Raheem's masterpiece. This book contains complete grammatical analysis of the whole surah in Shiekh's signature style with lots of examples from Quran, classical Arabic vocabulary, quotes from Ibn Maalik’s Al-Alfiyyah with explanations and tons of exercices.

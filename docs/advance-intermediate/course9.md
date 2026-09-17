@@ -1,6 +1,6 @@
 # إنهما من مشكاة واحدة
 
-![Both These Lights Emanate From the Same Niche](/img/both-these-lights_.jpg)
+![Both These Lights Emanate From the Same Niche](/pathway-to-arabic/img/both-these-lights_.jpg)
 
 <br>
 Umm Salamah (radiyAllaahu anhaa)’s Hadeeth narrates a critical event in Islamic history of the emigration of the early Muslims from Makkah to Abyssinia to escape persecution. Hear the powerful address of Jafar ibn AbiTaalib (radiyaAllaahu anhu) who presents the case for asylum and explains the Islamic code of life. Listen to Jafar reciting the opening aayaat of surah Maryam in the king’s court. See the  reactions, witness events unfolding – all brought to life through the lexical and grammatical notes.

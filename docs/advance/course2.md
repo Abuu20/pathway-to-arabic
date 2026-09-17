@@ -1,6 +1,6 @@
 # نصوص من الحديث النبوي الشريف
 
-![Nusus Hadeeth](/img/nusus-hadeeth.jpg)
+![Nusus Hadeeth](/pathway-to-arabic/img/nusus-hadeeth.jpg)
 
 <br>
 Building on from the previous books in the series of annotated ahadeeth, this book contains 20 more ahadeeth with lexical and grammartical notes, many examples from Quran and poetry and extensive exercises to practice the concepts learned.

@@ -1,6 +1,6 @@
 # Surah al-Hujuraat With Lexical and Grammatical Notes by Dr. Abdur Raheem
 
-![Surah alHujuraat](/img/surah-hujuraat.jpg)
+![Surah alHujuraat](/pathway-to-arabic/img/surah-hujuraat.jpg)
 
 Surat al-Hujuraat contains profound obligations and character-building injunctions. A pivotal surah to help build imaan, perfect one’s character, and learn and master the Arabic sciences through it. With extensive lexical and grammatical notes, extensive additional notes, extensive exercises in a workbook with answers.
 

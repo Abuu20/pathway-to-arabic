@@ -1,6 +1,6 @@
 # Ahadeeth Sahlah by Dr. Abdur Raheem
 
-![Ahadeeth sahlah](/img/ahadeeth-sahlah.jpg)
+![Ahadeeth sahlah](/pathway-to-arabic/img/ahadeeth-sahlah.jpg)
 
 Twenty very short, easy ahadeeth, selected to teach Quranic Arabic and cultivate Islamic manners. Very simple lexical and grammatical notes followed by easy exercises. It prepares you for Arabic-only books.
 

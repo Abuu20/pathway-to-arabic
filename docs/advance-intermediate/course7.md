@@ -1,6 +1,6 @@
 # Imam Ibn Saud Arabic Level 3
 
-![Ibn Saud Bok Level 3](/img/ibn-saud-books.png)
+![Ibn Saud Bok Level 3](/pathway-to-arabic/img/ibn-saud-books.png)
 
 !!! note "Course Materials"
 

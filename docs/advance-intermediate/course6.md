@@ -1,6 +1,6 @@
 # At the Well of Madyan
 
-![Surah alQasas](/img/madyan.jpg)
+![Surah alQasas](/pathway-to-arabic/img/madyan.jpg)
 
 <br>
 Annotated text of ayaat 23 to 43 of Surah al-Qasas with diverse exercices on grammar, language and comprehension skills.

@@ -3,7 +3,7 @@
 !!! info
 This course is optional. But going through these resources will result in stronger understanding of Arabic composition and build on the vocabulary, In sha Allah.
 
-![Imam Ibn Saud Arabic](/img/ibn-saud-books.png)
+![Imam Ibn Saud Arabic](/pathway-to-arabic/img/ibn-saud-books.png)
 
 <br>
 

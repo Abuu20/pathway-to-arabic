@@ -1,6 +1,6 @@
 # في بلاط هرقل
 
-![Fi balat hiraqla](/img/balaat-hiraqla.jpg)
+![Fi balat hiraqla](/pathway-to-arabic/img/balaat-hiraqla.jpg)
 
 <br>
 Fi Balaat Hiraql by Dr Abdur Raheem is the annotated text of the dialogue that took place in Shaam between Abu Sufyaan radiyAllaahuanhu  and Heraclius, king of Byzantine. The Sahabi was summoned and questioned by Heraclius to ascertain the Prophethood of Allah’s Messenger sallAllaahualayhi wasallam.

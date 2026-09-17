@@ -1,6 +1,6 @@
 # أبشر بخير يوم
 
-![Abshir](/img/abshir.jpg)
+![Abshir](/pathway-to-arabic/img/abshir.jpg)
 
 <br>
 أبشر بخير يوم is the heart-rending story of the repentance of Ka'ab ibn Maalik radiya Allaahu 'anhu who remained behind from the Battle of Tabuuk in 9 AH.

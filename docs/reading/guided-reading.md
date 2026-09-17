@@ -21,7 +21,7 @@ You can start reading these books alongside other courses. But ideally you shoul
 
 _by Abul Hasan alNadwi_
 
-![Qasa An-Nabiyeen](/img/qisas-nabiyeen.jpg)
+![Qasa An-Nabiyeen](/pathway-to-arabic/img/qisas-nabiyeen.jpg)
 
 Abul Hasan alNadwi is a well known scholar and he has written a series of books especially for children/beginners who are learning Arabic. Qasas anNabiyeen (stories of the prophets) is his famous work where he starts with very easy and basic language, gradually progressing to more difficult and sophisticated language. This is generally considered the best book for begiiner comprehension.
 
@@ -58,7 +58,7 @@ Abul Hasan alNadwi is a well known scholar and he has written a series of books 
 
 _by Abul Hasan alNadwi_
 
-![Qasa An-Nabiyeen](/img/qisas-nabiyeen.jpg)
+![Qasa An-Nabiyeen](/pathway-to-arabic/img/qisas-nabiyeen.jpg)
 
 Abul Hasan alNadwi is a well known scholar and he has written a series of books especially for children/beginners who are learning Arabic. Qasas anNabiyeen (stories of the prophets) is his famous work where he starts with very easy and basic language, gradually progressing to more difficult and sophisticated language. This is generally considered the best book for begiiner comprehension. This last volume is the highest in difiiculty level.
 
@@ -75,7 +75,7 @@ Abul Hasan alNadwi is a well known scholar and he has written a series of books 
 
 _by Abul Hasan alNadwi_
 
-![al-qiraat-ur-rashidah](/img/Al-Qiratu-Rashida-1.jpg)
+![al-qiraat-ur-rashidah](/pathway-to-arabic/img/Al-Qiratu-Rashida-1.jpg)
 
 Abul Hasan alNadwi is a well known scholar and he has written a series of books especially for children/beginners who are learning Arabic. Al-Qiraat-ur-Rashidah is a beginner Arabic reader written by him for the students of Arabic. It comprises of short stories and essays providing one with lots of practice in comprehension and vocabulary.
 
@@ -92,7 +92,7 @@ Abul Hasan alNadwi is a well known scholar and he has written a series of books 
 
 _Abdul Muhsin bin Muhammad alQasim_
 
-![alAdhkaar wa aladaab](/img/adhkar-wa-aladaab.png)
+![alAdhkaar wa aladaab](/pathway-to-arabic/img/adhkar-wa-aladaab.png)
 
 Written by the imam and khateeb of Masjid anNabawi, this book contains 7 Ahadith regarding the importance of seeking knowledge and then 115 Ahadith consisting of Adkhaar used throughout the days and nights and then the 99 Ahadith related to Aadaab (etiquettes).
 
@@ -108,7 +108,7 @@ Written by the imam and khateeb of Masjid anNabawi, this book contains 7 Ahadith
 
 _by Abul Hasan alNadwi_
 
-![rijaal fikr wa dawah](/img/rijaal-fikr-dawah.jpg)
+![rijaal fikr wa dawah](/pathway-to-arabic/img/rijaal-fikr-dawah.jpg)
 
 Another book by Abul Hasan alNadwi.
 
@@ -124,7 +124,7 @@ Another book by Abul Hasan alNadwi.
 
 _by Imam Yahya bin Sharif AlNawawi and Ibn Rajab_
 
-![Imam Nawawi's Forty Ahadeeth](/img/40-ahadeeth-nawawi.jpg)
+![Imam Nawawi's Forty Ahadeeth](/pathway-to-arabic/img/40-ahadeeth-nawawi.jpg)
 
 Imam al-Nawawi’s collection of 40 Hadiths is one of the most important collections of hadiths we have today. Imam al Nawawi actually compiled a total of 42 hadiths for this collection, not 40. This collection contains 50 ahadeeth however, the last eight added by Imam Ibn Rajab. You can read more about this famous work [here](https://40hadithnawawi.com/posts/the-collection/){target=\_blank}.
 
@@ -143,7 +143,7 @@ Imam al-Nawawi’s collection of 40 Hadiths is one of the most important collect
 
 _Dr. Muhammad Suleiman Al-Ashqar_
 
-![Zubdah alTafseer](/img/zubdah-tafseer.png)
+![Zubdah alTafseer](/pathway-to-arabic/img/zubdah-tafseer.png)
 
 Zubdah alTafseer is an abridged version of فتح القدير of Sheikh Muhammad bin Ali Shawkani, written by Dr. Muhammad Suleiman Al-Ashqar. The language is easy and it is recommended by many as a perfect beginner friendly tafseer.
 
@@ -160,7 +160,7 @@ Zubdah alTafseer is an abridged version of فتح القدير of Sheikh Muhamma
 
 _by Sheikh Abdul Aziz bin Baaz_
 
-![al-Tafseer al-Muyassar](/img/duroos-muhimmah.jpg)
+![al-Tafseer al-Muyassar](/pathway-to-arabic/img/duroos-muhimmah.jpg)
 
 Important Lessons for the Ummah is a comprehensive, basic, summarized, necessary reference book by Sheikh bin Baaz. This small book contains a series of small lessons on the most necessary things to teach or learn, such as the basics of belief, ablutions and prayers etc.
 
@@ -179,7 +179,7 @@ Important Lessons for the Ummah is a comprehensive, basic, summarized, necessary
 
 _by Imam Suyuti_
 
-![al-Tafseer al-Jalâlain](/img/tafseer-al-jalâlain.jpg)
+![al-Tafseer al-Jalâlain](/pathway-to-arabic/img/tafseer-al-jalâlain.jpg)
 
 Tafseer al-Jalâlain is a relatively short, but extremely deep and comprehensive work of tafseer. It has been considered an important first text in the study of tafseer across the Muslim world. In this YouTube playlist you can watch Shaikh Furhan Zubairi go through the entire book, translating and explaining the Arabic text.
 

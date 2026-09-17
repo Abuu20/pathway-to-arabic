@@ -19,7 +19,7 @@ You can start reading these books alongside other courses. But ideally you shoul
 
 ## Poetry Lessons by Dr Abdur Raheem
 
-![Arabic poetry lessons](/img/poetry_durus.jpg)
+![Arabic poetry lessons](/pathway-to-arabic/img/poetry_durus.jpg)
 
 <br>
 
@@ -35,7 +35,7 @@ You can start reading these books alongside other courses. But ideally you shoul
 
 ## QnAs on Arabic Poetry by Dr Abdur Raheem
 
-![Arabic poetry qna](/img/poetry-qna-abdurraheem.png)
+![Arabic poetry qna](/pathway-to-arabic/img/poetry-qna-abdurraheem.png)
 
 <br>
 
@@ -50,7 +50,7 @@ A collection of questions and their answers on classical Arabic poetry by Dr Abd
 
 ## An Introduction to Poetic Metres (علم العروض)
 
-![An introduction to poetic metres in Arabic](/img/intro-poetic-metres.png)
+![An introduction to poetic metres in Arabic](/pathway-to-arabic/img/intro-poetic-metres.png)
 
 <br>
 
@@ -69,7 +69,7 @@ The webinar covered enough to enable those interested to self-study further and 
 
 ## Metre and Rhyme in Arabic Poetry
 
-![Metre and Rhyme in Arabic Poetry](/img/metre-rhyme-elqabbany.png)
+![Metre and Rhyme in Arabic Poetry](/pathway-to-arabic/img/metre-rhyme-elqabbany.png)
 
 <br>
 
@@ -86,7 +86,7 @@ This course will give you the ability to analyse and appreciate the metre (aroud
 
 _Collection of poetry by Imam Shafee_
 
-![Diwan Imam ash-Shafee](/img/diwan-imam-shafee.png)
+![Diwan Imam ash-Shafee](/pathway-to-arabic/img/diwan-imam-shafee.png)
 
 Imam Shafee doesn't need any introduction. Not only was he a great Faqeeh, he wasl also a great poet. His poetry is full of hikam (wise sayings) and lessons. A must read for any student of Arabic language. A lot of his poetry has been collected by his students and compiled in a book for in later years.
 

@@ -1,6 +1,6 @@
 # Imam Ibn Saud Arabic Level 4
 
-![Nusus Hadeeth](/img/ibn-saud-books.png)
+![Nusus Hadeeth](/pathway-to-arabic/img/ibn-saud-books.png)
 
 <br>
 Building on from the previous books in the series of annotated ahadeeth, this book contains 20 more ahadeeth with lexical and grammartical notes, many examples from Quran and poetry and extensive exercises to practice the concepts learned.

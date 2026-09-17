@@ -1,6 +1,6 @@
 # و قل لهما قولا كريما
 
-![Surah alIsra](/img/alIsra.jpg)
+![Surah alIsra](/pathway-to-arabic/img/alIsra.jpg)
 
 <br>
 A selection of ayaat 23 to 39 from Surah al-Isra with lexical and grammatical notes by Dr. Abdur Raheem.

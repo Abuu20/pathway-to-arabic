@@ -1,6 +1,6 @@
 # نصوص إسلامية
 
-![Nusus-islamiya](/img/nusuus-islamiyah.jpg)
+![Nusus-islamiya](/pathway-to-arabic/img/nusuus-islamiyah.jpg)
 
 <br>
 

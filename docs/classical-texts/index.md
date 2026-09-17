@@ -13,7 +13,7 @@ You can start reading these books alongside other courses. But ideally you shoul
 
 ## شرح قطر الندى
 
-![Sharh Qatr-an-Nada](/img/qatr-an-nada.png)
+![Sharh Qatr-an-Nada](/pathway-to-arabic/img/qatr-an-nada.png)
 
 <br>
 

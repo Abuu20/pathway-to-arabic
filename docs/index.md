@@ -1,4 +1,4 @@
-![Pathway to arabic](/img/pathway-to-arabic.jpg)
+![Pathway to arabic](/pathway-to-arabic/img/pathway-to-arabic.jpg)
 
 ## Background
 

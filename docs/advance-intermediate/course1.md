@@ -1,6 +1,6 @@
 # Nur-un Ala Nur
 
-![Nurun ala Nur](/img/nur-ala-nur.jpg)
+![Nurun ala Nur](/pathway-to-arabic/img/nur-ala-nur.jpg)
 
 <br>
 The selected aayaat from surah al-Nur with extensive lexical and grammatical notes by Dr. Abdur Raheem. These ayaat speak of Allah’s Greatness and Divinity, promise and encourage believers towards greater imaan and strike parables of unbelief with profound meanings. Sheikh has provided many Quranic quotations to illustrate the grammatical rules and teach us Quranic words and grammatical patterns of the Quran.

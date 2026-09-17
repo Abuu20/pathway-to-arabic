@@ -1,6 +1,6 @@
 # Surah al-Aadiyaat
 
-![Surah alAdiyaat](/img/al-aadiyaat.jpg)
+![Surah alAdiyaat](/pathway-to-arabic/img/al-aadiyaat.jpg)
 
 <br>
 Annotated text of Surah al-Aadiyaat with diverse exercices on grammar, language and comprehension skills.

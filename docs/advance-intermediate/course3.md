@@ -1,6 +1,6 @@
 # Topics of Advance Arabic Grammar Videos
 
-![Advance grammar videos](/img/arabic-videos.png)
+![Advance grammar videos](/pathway-to-arabic/img/arabic-videos.png)
 
 <br>
 This is a series of eight, advanced Arabic grammar lectures by Dr. Abdur Raheem to help understand finer aspects of the language, grammar and eloquence of the Noble Quran.

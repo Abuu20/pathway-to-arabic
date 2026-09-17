@@ -4,7 +4,7 @@ The beginner section will make use of the Madinah Arabic books.
 
 ## Introduction to Madinah Arabic Books
 
-![Madinah Arabic books](/img/madinah-bk-1.jpg)
+![Madinah Arabic books](/pathway-to-arabic/img/madinah-bk-1.jpg)
 
 Madinah Arabic books is the world renowned program of study to learn Arabic language, used in Madinah Islamic University. These books are written by [Dr Abdur Raheem](http://drvaniya.com/?page_id=2) who very kindly has kept them royalty free. Which means you can download these books free from the web without violating any copyrights. By the end of these books, you will know and understand around 80% of the grammar of Quran, Insha Allah.
 

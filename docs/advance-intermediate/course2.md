@@ -1,6 +1,6 @@
 # Selections from the Glorious Quran
 
-![Selections from the Glorious Quran](/img/sftgq.jpg)
+![Selections from the Glorious Quran](/pathway-to-arabic/img/sftgq.jpg)
 
 <br>
 Various selected Quranic chapters are gathered with lexical and grammatical notes in this book by Dr. Abdur Raheem. It provides a wide and in-depth coverage of lexical and grammatical elements in the Quran. This course is extensive in coverage of the Arabic sciences due to its diverse selection of ayaat from various surahs.

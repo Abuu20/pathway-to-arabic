@@ -1,6 +1,6 @@
 # Workbooks for Madinah Books Graduates by drvaniya.com
 
-![Quran workbooks by drvaniya.com](/img/madinah-bks-grad.jpg)
+![Quran workbooks by drvaniya.com](/pathway-to-arabic/img/madinah-bks-grad.jpg)
 
 These are some workbooks especially written for the graduates of the three Madinah books to build upon their learning and exposing them to diverse Quranic ayaat. These books are prepared by the team at [drvaniya.com](http://drvaniya.com/){target=\_blank} - the official website of Dr Adbur Raheem.
 

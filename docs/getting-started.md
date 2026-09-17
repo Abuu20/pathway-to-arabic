@@ -12,7 +12,7 @@ Depending on your level of understanding Arabic, choose a section and follow the
 <!--
 ## How to track and show your progress (Optional)
 
-![Trello board](/img/trello.png)
+![Trello board](/pathway-to-arabic/img/trello.png)
 
 Optionally, you can track and show your progress through our Trello board. The intention of this board is to provide for you a way to track your progress, and also the ability to show your progress through a public page to friends, family, fellow students, etc. You can change the status of your board to be public or private.
 

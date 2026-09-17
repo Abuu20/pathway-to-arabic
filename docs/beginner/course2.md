@@ -1,6 +1,6 @@
 # Madinah Arabic Book 2
 
-![Madinah Book 2](/img/madinah-bk-2.png)
+![Madinah Book 2](/pathway-to-arabic/img/madinah-bk-2.png)
 
 <br>
 
